@@ -21,7 +21,7 @@ const About = () => {
                     <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
                 </h1>
                 <div className='about__description'>
-                    Hello! My name is <span className='about__link'>Yash&nbsp;Kumar&nbsp;Pal</span> and I’m a Full Stack Developer located in India. I am a highly skilled professional with a passion for designing and developing complex web applications. My expertise in software engineering enables me to understand the intricacies of the development process, and I am able to work with precision and attention to detail to deliver high-quality projects.<br />
+                    Hello!  I'm <span className='about__link'>Yash</span>, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.<br />
                     <br />
                     Well-organised person, problem solver, focused student at <a href='https://vit.edu.in/' target="_blank" rel="noreferrer" className="intro__link">MASAI</a> with high attention to detail. Fan of Gaming esports, outdoor activities, TV series.<br />
                     <br />

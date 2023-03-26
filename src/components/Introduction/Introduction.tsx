@@ -7,7 +7,7 @@ const Introduction = () => {
 
     const [letterClass, setLetterClass] = useState("text-animate")
     const nameArray = "Yash,".split("")
-    const jobArray = "oftware enginner".split("")
+    const jobArray = "oftware Enginner".split("")
 
     useEffect(() => {
         setTimeout(() => {
@@ -36,7 +36,7 @@ const Introduction = () => {
             </div>
             <div className="intro__right">
                 <div className="logo__fill" >
-                <img style={{borderRadius:"40%",border:"4px solid yellow "}} src='../favicon/yash.jpeg' alt="" />
+                <img style={{borderRadius:"40%",border:"4px solid yellow ",width:"100%",height:"100%"}} src='../favicon/yash.jpeg' alt="" />
                     
                 </div>
             </div>

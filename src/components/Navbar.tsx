@@ -15,19 +15,19 @@ const Navbar = () => {
             <div className="navbar__right">
                 <ul className="navbar__list">
                     <li className="navbar__items">
-                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">01.</span>.about()</a>
+                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">01.</span>.about</a>
                     </li>
                     <li className="navbar__items">
-                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">02.</span>.skills()</a>
+                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">02.</span>.skills</a>
                     </li>
                     <li className="navbar__items">
-                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">03.</span>.work()</a>
+                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">03.</span>.work</a>
                     </li>
                     <li className="navbar__items">
-                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">04.</span>.contact()</a>
+                        <a href="/#about" className="navbar__itemsLink"><span className="navbar__itemsLinkNumeric">04.</span>.contact</a>
                     </li>
                 </ul>
-                <a href="https://drive.google.com/file/d/1SArkoqiFxn9qevyzhdjTVBb6oJnRb6F_/view?usp=sharing" target="_blank" rel='noreferrer' className="navbar__button">Resume</a>
+                <a href="" target="_blank" rel='noreferrer' className="navbar__button">Resume</a>
             </div>
         </nav>
     )

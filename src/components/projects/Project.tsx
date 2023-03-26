@@ -124,12 +124,12 @@ const Project = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='projectResp__cardLink'>
-                                <a href="https://github.com/yashfalke77/food-ordering-app" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/code735/stanzaLiving" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/Bm6oUdohS9M" target='_blank' rel='noreferrer'>
+                                <a href="https://code735.github.io/stanzaLiving/" target='_blank' rel='noreferrer'>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -137,12 +137,12 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="projectResp__cardBody">
-                            <div className="projectResp__cardBodyHeading">Colors.co</div>
+                            <div className="projectResp__cardBodyHeading">Stanza Living Clone</div>
                             <p className='projectResp__cardBodyDescription'>
-                                Coolors is the essential tool for creating and collecting color palettes. It allows you to generate perfect matching colors in seconds. Even if you are not so skilled in design!. You may use a variety of color spaces, including RGB, CMYK, LAB etc.
+                            Stanzaliving provides apartments, co-living and PG properties on rent across major cities in the country. These properties exhibit professional standards in hygine, maintainence and come furnished with myriad amneties.
                             </p>                        </div>
                         <div className="projectResp__cardFooter">
-                            <div className='projectResp__tags'> Next.js &nbsp; React.js &nbsp; Node.js &nbsp; MongoDB &nbsp; Express.js &nbsp; SCSS/SASS</div>
+                            <div className='projectResp__tags'>  HTML &nbsp; CSS &nbsp; Vanilla JS </div>
                         </div>
                     </div>
                 </li>
@@ -153,12 +153,12 @@ const Project = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='projectResp__cardLink'>
-                                <a href="https://github.com/yashfalke77/iNotebook" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/MF7xbfKyaEk" target='_blank' rel='noreferrer'>
+                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer'>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -166,18 +166,13 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="projectResp__cardBody">
-                            <div className="projectResp__cardBodyHeading">YelpCamp Campgrounds</div>
+                            <div className="projectResp__cardBodyHeading">Cloning of Zoomcar WEBSITE</div>
                             <p className='projectResp__cardBodyDescription'>
-                                A camping sites web app project that enables
-                                you to add, update, and delete campgrounds as
-                                well as view campgrounds added by other users
-                                and receive comments and ratings from other
-                                users.
+                            Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran. It currently operates in 34+ cities. Self-drive cars from Zoomcar have given customers more control, privacy, and freedom. Book a self-drive car in any city you visit with the Zoomcar app on your phone and feel at home wherever you go.
                             </p>
                         </div>
                         <div className="projectResp__cardFooter">
-                            <div className='projectResp__tags'> React.js &nbsp;
-                                Express.js &nbsp; Node.js &nbsp; MongoDB &nbsp; Cloudinary &nbsp; ejs</div>
+                            <div className='projectResp__tags'>React.js &nbsp; Redux.js &nbsp; Bootstrap &nbsp; HTML/CSS &nbsp; javascript &nbsp; chakra UI </div>
                         </div>
                     </div>
                 </li>
@@ -188,26 +183,22 @@ const Project = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='projectResp__cardLink'>
-                                <a href="https://github.com/yashfalke77/Natours-project" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/hero007noob/hotstar-clone" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://codepen.io/yashfalke77/pen/zYpvOBo" target='_blank' rel='noreferrer'>
-                                    <svg className="projectResp__icon">
-                                        <use href="icons/symbol-defs.svg#icon-codepen"></use>
+                                <a href="https://hotstar-tawny.vercel.app/" target='_blank' rel='noreferrer'>
+                                <svg className="projectResp__icon">
+                                        <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
                                 </a>
                             </div>
                         </div>
                         <div className="projectResp__cardBody">
-                            <div className="projectResp__cardBodyHeading">Online Grocery store</div>
+                            <div className="projectResp__cardBodyHeading">Disney+ Hotstar Clone</div>
                             <p className='projectResp__cardBodyDescription'>
-                                The project entailed creating an ecommerce
-                                website with everyday necessities and food as
-                                its products.<br /><br />
-                                An Django application with email based
-                                authentication and uses cookies - sessions</p>
+                            This is a clone of Disneyplus Hotstar. It is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and every major sport covered live.</p>
                         </div>
                         <div className="projectResp__cardFooter">
                             <div className='projectResp__tags'> Python &nbsp; Django &nbsp; Bootstrap &nbsp; HTML/CSS &nbsp; javascript</div>

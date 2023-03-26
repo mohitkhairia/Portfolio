@@ -2,7 +2,6 @@ import AnimatedLettersFast from 'components/AnimatedlettersFast'
 import React, { useState, useEffect } from 'react'
 import "./otherProjects.scss"
 
-
 const OtherProjects = () => {
 
     const [letterClass, setLetterClass] = useState("text-animate-fast")
@@ -174,7 +173,12 @@ const OtherProjects = () => {
                 </li>
             </ul>
             <span className="sectiontag">&lt;/section&gt;</span>
+            <div>
+
+            </div>
         </div>
+        
+        
     )
 }
 

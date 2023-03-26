@@ -6,6 +6,7 @@ import LazyLoad from 'react-lazyload';
 import Project from "components/projects/Project";
 import OtherProjects from "components/projects/OtherProjects";
 import Touch from "components/Touch";
+import Gitcontro from "components/gitcontribution/gitcontro";
 
 const Center = () => {
   return (
@@ -20,6 +21,9 @@ const Center = () => {
       </LazyLoad>
       <LazyLoad once height={566}>
         <OtherProjects />
+      </LazyLoad>
+      <LazyLoad once height={566}>
+        <Gitcontro/>
       </LazyLoad>
       <LazyLoad once height={566}>
         <Touch />

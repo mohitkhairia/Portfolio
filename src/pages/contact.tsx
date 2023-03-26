@@ -25,8 +25,38 @@ const Contact = () => {
 
     const sendEmail = (e) => {
         e.preventDefault();
-
-        emailjs.sendForm('service_kymbk2t', 'template_69scyjd', form.current, 'Zvmly1ZZ2GET0jjOx')
+        const fullName = inputRef1.current.value;
+        const email = inputRef2.current.value;
+        const message = inputRef3.current.value;
+    
+        // create a form element
+        const form = document.createElement('form');
+    
+        // set the form's attributes
+        form.setAttribute('method', 'POST');
+        form.setAttribute('action', '/');
+    
+        // create input elements and set their values
+        const fullNameInput = document.createElement('input');
+        fullNameInput.setAttribute('type', 'text');
+        fullNameInput.setAttribute('name', 'fullName');
+        fullNameInput.setAttribute('value', fullName);
+    
+        const emailInput = document.createElement('input');
+        emailInput.setAttribute('type', 'email');
+        emailInput.setAttribute('name', 'email');
+        emailInput.setAttribute('value', email);
+    
+        const messageInput = document.createElement('textarea');
+        messageInput.setAttribute('name', 'message');
+        messageInput.innerText = message;
+    
+        // append the input elements to the form
+        form.appendChild(fullNameInput);
+        form.appendChild(emailInput);
+        form.appendChild(messageInput);
+    
+        emailjs.sendForm('service_kymbk2t', 'template_69scyjd', form, 'Zvmly1ZZ2GET0jjOx')
             .then((result) => {
                 console.log(result.text);
                 window.alert("Mail Sent Successfully!!!")
@@ -40,7 +70,7 @@ const Contact = () => {
 
     };
 
-
+    console.log(inputRef1);
     return (
         <div className='contact'>
             <div className="contact__left">

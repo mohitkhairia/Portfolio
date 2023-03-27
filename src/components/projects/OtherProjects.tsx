@@ -31,12 +31,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/food-ordering-app" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/Bm6oUdohS9M" target='_blank' rel='noreferrer'>
+                                <a href="" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -46,10 +46,10 @@ const OtherProjects = () => {
                         <div className="other__cardBody">
                             <div className="other__cardBodyHeading">Food Ordering App</div>
                             <p className='other__cardBodyDescription'>
-                                Responsive pizza restaurant food ordering app UI design using React | Next.js. Design restaurant app using React Next.js and CSS. Next.js MongoDB restaurant (order food) project using React Redux. Full-stack Next.js APP.                            </p>
+                                Responsive pizza restaurant food ordering app UI design using React  Design restaurant app using vanilla.js and CSS.                             </p>
                         </div>
                         <div className="other__cardFooter">
-                            <div className='other__tags'> Material UI &nbsp; Nextjs &nbsp; Mongodb &nbsp; jwt-auth</div>
+                            <div className='other__tags'>  vanilla.js &nbsp; HTML &nbsp; CSS</div>
                         </div>
                     </div>
                 </li>
@@ -60,12 +60,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/iNotebook" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/MF7xbfKyaEk" target='_blank' rel='noreferrer'>
+                                <a href="" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -73,12 +73,12 @@ const OtherProjects = () => {
                             </div>
                         </div>
                         <div className="other__cardBody">
-                            <div className="other__cardBodyHeading">INotebook</div>
+                            <div className="other__cardBodyHeading">Weather API</div>
                             <p className='other__cardBodyDescription'>
-                                Notebook is made from the pain of writing all the things in notebook which is very hectic. So we made a online web platform where you can create,edit, upload,delete your notes / information privately and securely without any disturbancee,you can also access your notes anywhere in your world,at anytime time.</p>
+                            A weather API app built using HTML, CSS, and Vanilla JS is a useful tool for users to check the weather conditions in their location or any other location of their interest. The app would integrate with a weather API service to fetch real-time weather data and display it in a user-friendly interface.</p>
                         </div>
                         <div className="other__cardFooter">
-                            <div className='other__tags'> Material UI &nbsp; React &nbsp; MongoDB &nbsp; Expressjs</div>
+                            <div className='other__tags'>  vanilla.js &nbsp; HTML &nbsp; CSS &nbsp; fetch API</div>
                         </div>
                     </div>
                 </li>
@@ -89,12 +89,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/Natours-project" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://codepen.io/yashfalke77/pen/zYpvOBo" target='_blank' rel='noreferrer'>
+                                <a href="" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-codepen"></use>
                                     </svg>
@@ -102,13 +102,13 @@ const OtherProjects = () => {
                             </div>
                         </div>
                         <div className="other__cardBody">
-                            <div className="other__cardBodyHeading">Natours</div>
+                            <div className="other__cardBodyHeading">Mini YouTube</div>
                             <p className='other__cardBodyDescription'>
-                                Natours. An awesome tour booking site built on top of NodeJS. A Web design of tours and travelling usingAdvanced css i.e SCSS / SASS
+                            The section of a project for a YouTube clone built using Vanilla JS, HTML, and CSS could be an important aspect of the overall user experience. In this section, users can browse and search for videos, view video recommendations, and access video player controls.
                             </p>
                         </div>
                         <div className="other__cardFooter">
-                            <div className='other__tags'> SCSS / SASS &nbsp; UI / UX &nbsp; Nodejs &nbsp; HTML</div>
+                            <div className='other__tags'> vanilla.js &nbsp; HTML &nbsp; CSS &nbsp; fetch API</div>
                         </div>
                     </div>
                 </li>
@@ -119,12 +119,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/yashfalke77/Ping-Pong-Score-Keeper" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://codepen.io/yashfalke77/pen/KKqpgzN" target='_blank' rel='noreferrer'>
+                                <a href="" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-codepen"></use>
                                     </svg>
@@ -149,12 +149,12 @@ const OtherProjects = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='other__cardLink'>
-                                <a href="https://github.com/pico-india/main-django" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://youtu.be/HI5fYKvuo-8" target='_blank' rel='noreferrer'>
+                                <a href="" target='_blank' rel='noreferrer'>
                                     <svg className="other__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -162,12 +162,12 @@ const OtherProjects = () => {
                             </div>
                         </div>
                         <div className="other__cardBody">
-                            <div className="other__cardBodyHeading">Pico - A photo library website</div>
+                            <div className="other__cardBodyHeading">Moive Downloading website</div>
                             <p className='other__cardBodyDescription'>
-                                Pico is a website dedicated to sharing stock photography under the Pico license. Pico allows photographers to upload photos to its website, which are then curated by a team of photo editors. In Pico we are aspiring to be one of the largest photography suppliers on the internet.                            </p>
+                            A movie downloading website with the OMDB API built using HTML, CSS, and Vanilla JS would allow users to search for and download their favorite movies. The website would integrate with the OMDB API to fetch movie data and display it in a user-friendly interface.         </p>
                         </div>
                         <div className="other__cardFooter">
-                            <div className='other__tags'> Python &nbsp; Django &nbsp; HTML / CSS &nbsp; Javascript</div>
+                            <div className='other__tags'> API call &nbsp; HTML / CSS &nbsp; Javascript</div>
                         </div>
                     </div>
                 </li>

@@ -36,7 +36,7 @@ const Introduction = () => {
             </div>
             <div className="intro__right">
                 <div className="logo__fill" >
-                <img style={{borderRadius:"40%",border:"4px solid yellow ",width:"100%",height:"100%"}} src='../favicon/yash.jpeg' alt="" />
+                <img style={{borderRadius:"40%",border:"4px solid yellow ",width:"90%",height:"90%"}} src='../favicon/yash.jpeg' alt="" />
                     
                 </div>
             </div>

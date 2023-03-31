@@ -14,7 +14,7 @@ const About = () => {
 
     })
     return (
-        <div className='about'>
+        <div className='about' id='about_id'>
             <div className="about__left">
                 <span className="sectiontag">&lt;section&gt;</span>
                 <h1 className="about__headingPrimary">
@@ -28,7 +28,7 @@ const About = () => {
                     Here are the few technologies that I'have been working recently: <br />
                     <ul className='about__skillsList'>
                         <li className='about__skillsItems'>Javascript(ES6+)</li>
-                        {/* <li className='about__skillsItems'>Python</li> */}
+                        <li className='about__skillsItems'>Git/Github</li>
                         <li className='about__skillsItems'>HTML/CSS</li>
                         <li className='about__skillsItems'>Nodejs</li>
                         <li className='about__skillsItems'>Expressjs</li>
@@ -36,9 +36,11 @@ const About = () => {
                         <li className='about__skillsItems'>MongoDb</li>
                         <li className='about__skillsItems'>Nextjs</li>
                         <li className='about__skillsItems'>React Redux</li>
-                        {/* <li className='about__skillsItems'>SQL</li> */}
+                        <li className='about__skillsItems'>Bootsrap</li>
                         <li className='about__skillsItems'>Data Structures</li>
                         <li className='about__skillsItems'>Algorithms</li>
+                        <li className='about__skillsItems'>Chakara UI</li>
+                        <li className='about__skillsItems'>Mongoose</li>
                     </ul>
                 </div>
                 <span className="sectiontag">&lt;/section&gt;</span>
@@ -48,12 +50,12 @@ const About = () => {
                     <div className="cubespinner">
                         <div className="face1">
                             <svg className="about__icon">
-                                <use href="icons/symbol-defs.svg#icon-python"></use>
+                                <use href="icons/symbol-defs.svg#icon-express"></use>
                             </svg>
                         </div>
                         <div className="face2">
                             <svg className="about__icon">
-                                <use href="icons/symbol-defs.svg#icon-css3"></use>
+                                <use href="icons/symbol-defs.svg#icon-redux"></use>
                             </svg>
                         </div>
                         <div className="face3">

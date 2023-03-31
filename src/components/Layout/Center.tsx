@@ -7,6 +7,7 @@ import Project from "components/projects/Project";
 import OtherProjects from "components/projects/OtherProjects";
 import Touch from "components/Touch";
 import Gitcontro from "components/gitcontribution/gitcontro";
+import Static from "components/statatic/statatic";
 
 const Center = () => {
   return (
@@ -24,6 +25,9 @@ const Center = () => {
       </LazyLoad>
       <LazyLoad once height={566}>
         <Gitcontro/>
+      </LazyLoad>
+      <LazyLoad once height={566}>
+        <Static/>
       </LazyLoad>
       <LazyLoad once height={566}>
         <Touch />

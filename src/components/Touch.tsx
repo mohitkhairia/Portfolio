@@ -15,7 +15,7 @@ const Touch = () => {
         }, 4000)
     })
     return (
-        <section className='sec'>
+        <section className='sec' id='contact'>
             <span className="sectiontag">&lt;section&gt;</span>
             <div className='touch'>
 

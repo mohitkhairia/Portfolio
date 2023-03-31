@@ -1,12 +1,13 @@
 import AnimatedLettersFast from 'components/AnimatedlettersFast'
+import Center from 'components/Layout/Center'
 import React, { useState, useEffect } from 'react'
-import "./gitcontro.scss"
-import  GitHubCalendar from "react-github-calendar";
+import "./statayic.scss"
 
-const Gitcontro = () => {
+
+const Static = () => {
 
     const [letterClass, setLetterClass] = useState("text-animate-fast")
-    const nameArray = "Github Contribution".split("")
+    const nameArray = "My Statistics".split("")
     
 
     useEffect(() => {
@@ -16,21 +17,16 @@ const Gitcontro = () => {
     })
    
     return (
-        <div className='git_contro' id='git_contro_id'>
+        <div className='static' id='Static'>
             <span className="sectiontag">&lt;section&gt;</span>
             <div className="other__container">
                 <h1 className="other__headingPrimary">
                     <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
                 </h1>
             </div>
-            <div style={{marginTop:"30px"}}>
-            <GitHubCalendar style={{margin:"auto"}}
-        username="Yash0922"
-        blockSize={20}
-        blockMargin={5}
-        color="#f1cb03"
-        fontSize={16}
-      />
+            <div style={{marginTop:"30px",display:"flex",justifyContent:"center",gap:"2%"}}>
+                <img src="https://github-readme-stats.vercel.app/api?username=yash0922&show_icons=true&theme=prussian&hide_border=true&text_color=b49d0e" alt="" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash0922 &theme=prussian&show_icons=true&hide_border=true&currStreakLabel=b49d0e&currStreakNum=b49d0e&sideNums=b49d0e&sideLabels=b49d0e&fire=b49d0e" alt="" />
             </div>
             <span className="sectiontag">&lt;/section&gt;</span>
 
@@ -41,4 +37,4 @@ const Gitcontro = () => {
     )
 }
 
-export default Gitcontro;
+export default Static;

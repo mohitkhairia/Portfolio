@@ -17,7 +17,7 @@ const Project = () => {
 
     })
     return (
-        <div className="project">
+        <div className="project" id='project_id' >
             <span className="sectiontag">&lt;section&gt;</span>
             <h1 className="about__headingPrimary">
                 <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
@@ -58,7 +58,7 @@ const Project = () => {
                 <section className='project__section'>
                     <div className="project__left1">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
-                        <a href="https://github.com/code735/zoomcar" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >Cloning of Zoomcar WEBSITE</h2></a>
+                        <a href="https://zoomcarapp.netlify.app/" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >Cloning of Zoomcar WEBSITE</h2></a>
                         <div className="project__descriptionContainer project__descriptionContainer1">
                             <p className='project__description'>
                             Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran. It currently operates in 34+ cities. Self-drive cars from Zoomcar have given customers more control, privacy, and freedom. Book a self-drive car in any city you visit with the Zoomcar app on your phone and feel at home wherever you go. </p>
@@ -70,7 +70,7 @@ const Project = () => {
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer'>
+                                <a href="https://zoomcarapp.netlify.app/" target='_blank' rel='noreferrer'>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -158,7 +158,7 @@ const Project = () => {
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer'>
+                                <a href="https://zoomcarapp.netlify.app/" target='_blank' rel='noreferrer'>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>

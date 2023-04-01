@@ -23,7 +23,7 @@ const Gitcontro = () => {
                     <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
                 </h1>
             </div>
-            <div style={{marginTop:"30px"}}>
+            <div className='git_contro__gitCalaneder' style={{marginTop:"30px"}}>
             <GitHubCalendar style={{margin:"auto",width:"100%"}}
         username="Yash0922"
         blockSize={20}

@@ -52,8 +52,8 @@
         animation: fadeInUp 2s forwards;
     }
 
-    &__items {
-        box-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.7);
+    &__statc-img {
+        // box-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.7);
         display: flex;
         -webkit-box-pack: justify;
         justify-content: space-between;
@@ -63,13 +63,13 @@
         height: 100%;
         padding: 2rem 1.75rem;
         border-radius: 4px;
-        background-color: #112240;
+        // background-color: #112240;
         transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
         cursor: pointer;
 
         &:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 60px -15px rgba(2, 12, 27, 0.7);
+            transform: translateY(-10px);
+            // box-shadow: 0 10px 60px -15px rgba(2, 12, 27, 0.7);
         }
     }
 

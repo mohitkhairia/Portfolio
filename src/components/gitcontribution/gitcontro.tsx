@@ -24,7 +24,7 @@ const Gitcontro = () => {
                 </h1>
             </div>
             <div style={{marginTop:"30px"}}>
-            <GitHubCalendar style={{margin:"auto"}}
+            <GitHubCalendar style={{margin:"auto",width:"100%"}}
         username="Yash0922"
         blockSize={20}
         blockMargin={5}

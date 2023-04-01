@@ -19,10 +19,10 @@ Hello! I'm Yash  and this is my portfolio .I’m a Front-End Developer located i
 ### Project Images
 
 #### Home Page
-<!-- <img src="./project screenshots/2.png" alt="Logo" >
+<img src="./ProjectScreenshort/page1.jpeg" alt="Logo" >
 
 #### contact page
-<img src="./project screenshots/1.png" alt="Logo" > -->
+<img src="./ProjectScreenshort/page2.jpeg" alt="Logo" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

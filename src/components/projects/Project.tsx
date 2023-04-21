@@ -58,19 +58,19 @@ const Project = () => {
                 <section className='project__section'>
                     <div className="project__left1">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
-                        <a href="https://zoomcarapp.netlify.app/" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >Cloning of Zoomcar WEBSITE</h2></a>
+                        <a href="https://asos-clone-cw.netlify.app/" target="_blank" rel="noreferrer" className='project__headingSecondary'><h2 >Asos Clone</h2></a>
                         <div className="project__descriptionContainer project__descriptionContainer1">
                             <p className='project__description'>
-                            Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran. It currently operates in 34+ cities. Self-drive cars from Zoomcar have given customers more control, privacy, and freedom. Book a self-drive car in any city you visit with the Zoomcar app on your phone and feel at home wherever you go. </p>
-                            <div className='project__tags'>React.js &nbsp;
-                                Bootstrap &nbsp; Redux.js </div>
+                            Asos, is an clothing e-commerce website, headquartered in London, United Kingdom. The company was founded in 2000 by José Antonio Ramos Calamonte. Asos is a women centric luxury clothing store, it has physical stores as well as virtual stores all across the world. </p>
+                            <div className='project__tags'>HTML &nbsp;
+                                Css &nbsp; Vanilla JS </div>
                             <div className="project__icons project__icons1">
-                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/nitika02/Asos" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://zoomcarapp.netlify.app/" target='_blank' rel='noreferrer'>
+                                <a href="https://asos-clone-cw.netlify.app/" target='_blank' rel='noreferrer'>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -79,30 +79,30 @@ const Project = () => {
                         </div>
                     </div>
                     <div className="project__right">
-                        <img className='project__img' src="https://raw.githubusercontent.com/code735/zoomcar/main/src/images/Home%20Page.png" />
+                        <img className='project__img' src="../favicon/asos.png" />
                     </div>
                 </section>
             </LazyLoad>
             <LazyLoad once height={400}>
                 <section className='project__section project__section3'>
                     <div className="project__left">
-                        <img className='project__img' src="../favicon/HotStarHomePage.png" />
+                        <img className='project__img' src="../favicon/overstock.png" />
                     </div>
                     <div className="project__right">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
-                        <a href="https://hotstar-tawny.vercel.app/" target='_blank' rel='noreferrer' className='project__headingSecondary'><h2 >Disney+ Hotstar Clone</h2></a>
+                        <a href="https://stockover-clone.netlify.app/" target='_blank' rel='noreferrer' className='project__headingSecondary'><h2 >OverStock</h2></a>
                         <div className="project__descriptionContainer">
                             <p className='project__description'>
-                            This is a clone of Disneyplus Hotstar. It is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and every major sport covered live.
+                            This is a clone of OverStock Website. Overstock.com, Inc. is an American internet retailer selling primarily furniture headquartered in Midvale, Utah, near Salt Lake City. Businessman Patrick M. Byrne founded Overstock.com in 1999.
                             </p>
-                            <div className='project__tags'>React.js &nbsp; Redux.js &nbsp; Bootstrap &nbsp; HTML/CSS &nbsp; javascript &nbsp; chakra UI </div>
+                            <div className='project__tags'>Bootstrap &nbsp; HTML/CSS &nbsp; javascript</div>
                             <div className="project__icons">
-                                <a href="https://github.com/hero007noob/hotstar-clone" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/priyaa74/Decor-And-More" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://hotstar-tawny.vercel.app/" target='_blank' rel='noreferrer'>
+                                <a href="https://stockover-clone.netlify.app/" target='_blank' rel='noreferrer'>
                                     <svg className="project__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -153,12 +153,12 @@ const Project = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='projectResp__cardLink'>
-                                <a href="https://github.com/code735/zoomcar" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/nitika02/Asos" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://zoomcarapp.netlify.app/" target='_blank' rel='noreferrer'>
+                                <a href="https://asos-clone-cw.netlify.app/" target='_blank' rel='noreferrer'>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -166,13 +166,13 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="projectResp__cardBody">
-                            <div className="projectResp__cardBodyHeading">Cloning of Zoomcar WEBSITE</div>
+                            <div className="projectResp__cardBodyHeading">Asos Clone</div>
                             <p className='projectResp__cardBodyDescription'>
-                            Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran. It currently operates in 34+ cities. Self-drive cars from Zoomcar have given customers more control, privacy, and freedom. Book a self-drive car in any city you visit with the Zoomcar app on your phone and feel at home wherever you go.
+                            Asos, is an clothing e-commerce website, headquartered in London, United Kingdom. The company was founded in 2000 by José Antonio Ramos Calamonte. Asos is a women centric luxury clothing store.                     
                             </p>
                         </div>
                         <div className="projectResp__cardFooter">
-                            <div className='projectResp__tags'>React.js &nbsp; Redux.js &nbsp; Bootstrap &nbsp; HTML/CSS &nbsp; javascript &nbsp; chakra UI </div>
+                            <div className='projectResp__tags'> Bootstrap &nbsp; HTML/CSS &nbsp; Javascript </div>
                         </div>
                     </div>
                 </li>
@@ -183,12 +183,12 @@ const Project = () => {
                                 <use href="icons/symbol-defs.svg#icon-folder"></use>
                             </svg>
                             <div className='projectResp__cardLink'>
-                                <a href="https://github.com/hero007noob/hotstar-clone" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
+                                <a href="https://github.com/priyaa74/Decor-And-More" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-github"></use>
                                     </svg>
                                 </a>
-                                <a href="https://hotstar-tawny.vercel.app/" target='_blank' rel='noreferrer'>
+                                <a href="https://stockover-clone.netlify.app/" target='_blank' rel='noreferrer'>
                                 <svg className="projectResp__icon">
                                         <use href="icons/symbol-defs.svg#icon-external-link"></use>
                                     </svg>
@@ -196,12 +196,12 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="projectResp__cardBody">
-                            <div className="projectResp__cardBodyHeading">Disney+ Hotstar Clone</div>
+                            <div className="projectResp__cardBodyHeading">OverStock Clone</div>
                             <p className='projectResp__cardBodyDescription'>
-                            This is a clone of Disneyplus Hotstar. It is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and every major sport covered live.</p>
+                            This is a clone of OverStock Website. Overstock.com, Inc. is an American internet retailer selling primarily furniture.</p>
                         </div>
                         <div className="projectResp__cardFooter">
-                            <div className='projectResp__tags'> Python &nbsp; Django &nbsp; Bootstrap &nbsp; HTML/CSS &nbsp; javascript</div>
+                            <div className='projectResp__tags'> HTML/CSS &nbsp; Javascript</div>
                         </div>
                     </div>
                 </li>

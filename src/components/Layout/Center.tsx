@@ -20,9 +20,9 @@ const Center = () => {
       <LazyLoad once height={566}>
         <Project />
       </LazyLoad>
-      <LazyLoad once height={566}>
+      {/* <LazyLoad once height={566}>
         <OtherProjects />
-      </LazyLoad>
+      </LazyLoad> */}
       <LazyLoad once height={566}>
         <Gitcontro/>
       </LazyLoad>

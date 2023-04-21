@@ -73,7 +73,7 @@ const Navbar = () => {
           </li>
         </ul>
         <a
-          href="https://drive.google.com/file/d/1Bjy1sGRkLWhWIcdALtnPPEGBTTaGc2GY/view?usp=share_link"
+          href="../favicon/Mohit_Khairia_Resume.pdf"
           target="_blank"
           rel="noreferrer"
           className="navbar__button"

@@ -6,7 +6,7 @@ import "./introduction.scss"
 const Introduction = () => {
 
     const [letterClass, setLetterClass] = useState("text-animate")
-    const nameArray = "Yash,".split("")
+    const nameArray = "Mohit,".split("")
     const jobArray = "oftware Engineer".split("")
 
     useEffect(() => {
@@ -36,7 +36,7 @@ const Introduction = () => {
             </div>
             <div className="intro__right">
                 <div className="logo__fill" >
-                <img style={{borderRadius:"40%",border:"4px solid yellow ",width:"90%",height:"90%"}} src='../favicon/yash.jpeg' alt="" />
+                <img style={{borderRadius:"40%",border:"4px solid yellow ",width:"90%",height:"90%"}} src='../favicon/mohit.jpg' alt="" />
                     
                 </div>
             </div>

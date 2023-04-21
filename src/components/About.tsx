@@ -18,10 +18,10 @@ const About = () => {
             <div className="about__left">
                 <span className="sectiontag">&lt;section&gt;</span>
                 <h1 className="about__headingPrimary">
-                    <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx={15} />
+                    <AnimatedLettersFast letterClass={letterClass} strArray={nameArray} idx ={15} />
                 </h1>
                 <div className='about__description'>
-                    Hello!  I'm <span className='about__link'>Yash</span>, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.<br />
+                    Hello!  I'm <span className='about__link'>Mohit</span>, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.<br />
                     <br />
                     Well-organised person, problem solver, focused student at <a href='https://www.masaischool.com/' target="_blank" rel="noreferrer" className="intro__link">MASAI</a> with high attention to detail. Fan of Gaming esports, outdoor activities, TV series.<br />
                     <br />

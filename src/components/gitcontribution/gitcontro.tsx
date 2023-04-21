@@ -25,7 +25,7 @@ const Gitcontro = () => {
             </div>
             <div className='git_contro__gitCalaneder' style={{marginTop:"30px"}}>
             <GitHubCalendar style={{margin:"auto",width:"100%"}}
-        username="Yash0922"
+        username="mohitkhairia"
         blockSize={20}
         blockMargin={5}
         color="#f1cb03"

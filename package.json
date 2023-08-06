@@ -16,7 +16,7 @@
     "github-contributions-react": "^1.0.15",
     "i18next": "^20.2.2",
     "mapbox-gl": "^2.10.0",
-    "netlify-cli": "^13.2.1",
+    "netlify-cli": "^13.2.2",
     "react": "^17.0.2",
     "react-calendar-heatmap": "^1.9.0",
     "react-dom": "^17.0.2",
@@ -68,5 +68,6 @@
     "cypress": "^6.2.1",
     "nock": "^13.0.11",
     "start-server-and-test": "^1.11.0"
-  }
+  },
+  "Homepage": "."
 }

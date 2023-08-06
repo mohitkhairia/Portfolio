@@ -23,7 +23,7 @@ const About = () => {
                 <div className='about__description'>
                     Hello!  I'm <span className='about__link'>Mohit</span>, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.<br />
                     <br />
-                    Well-organised person, problem solver, focused student at <a href='https://www.masaischool.com/' target="_blank" rel="noreferrer" className="intro__link">MASAI</a> with high attention to detail. Fan of Gaming esports, outdoor activities, TV series.<br />
+                    Ardent learner, Problem solver, Studied at <a href='https://www.masaischool.com/' target="_blank" rel="noreferrer" className="intro__link">MASAI School</a> for relevent experience. Outstanding Sportsman and a team player.<br />
                     <br />
                     Here are the few technologies that I'have been working recently: <br />
                     <ul className='about__skillsList'>
@@ -34,14 +34,16 @@ const About = () => {
                         <li className='about__skillsItems'>Expressjs</li>
                         <li className='about__skillsItems'>Reactjs</li>
                         <li className='about__skillsItems'>MongoDb</li>
-                        <li className='about__skillsItems'>Nextjs</li>
                         <li className='about__skillsItems'>React Redux</li>
                         <li className='about__skillsItems'>Bootsrap</li>
                         <li className='about__skillsItems'>Data Structures</li>
                         <li className='about__skillsItems'>Algorithms</li>
                         <li className='about__skillsItems'>Chakara UI</li>
                         <li className='about__skillsItems'>Mongoose</li>
-                    </ul>
+                        <li className='about__skillsItems'>AWS</li>
+                        <li className='about__skillsItems'>Authentication</li>
+                        <li className='about__skillsItems'>SQL</li>
+                        </ul>
                 </div>
                 <span className="sectiontag">&lt;/section&gt;</span>
             </div>

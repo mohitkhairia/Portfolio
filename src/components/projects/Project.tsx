@@ -37,7 +37,7 @@ const Project = () => {
                             <p className='project__description'>
                             Stanzaliving provides apartments, co-living and PG properties on rent across major cities in the country. These properties exhibit professional standards in hygine, maintainence and come furnished with myriad amneties.
                             </p>
-                            <div className='project__tags'> HTML &nbsp; CSS &nbsp; Vanilla JS </div>
+                            <div className='project__tags'> HTML &nbsp; CSS &nbsp; Vanilla JS &nbsp; BootStrap</div>
                             <div className="project__icons">
                                 <a href="https://github.com/code735/stanzaLiving" target='_blank' rel='noreferrer' style={{ marginRight: "1.6rem" }}>
                                     <svg className="project__icon">
@@ -142,7 +142,7 @@ const Project = () => {
                             Stanzaliving provides apartments, co-living and PG properties on rent across major cities in the country. These properties exhibit professional standards in hygine, maintainence and come furnished with myriad amneties.
                             </p>                        </div>
                         <div className="projectResp__cardFooter">
-                            <div className='projectResp__tags'>  HTML &nbsp; CSS &nbsp; Vanilla JS </div>
+                            <div className='projectResp__tags'>  HTML &nbsp; CSS &nbsp; Vanilla JS &nbsp; BootStrap</div>
                         </div>
                     </div>
                 </li>

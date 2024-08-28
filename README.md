@@ -14,7 +14,7 @@ ABOUT THE PROJECT
 
 ## About The Project
 
-Hello! I'm Yash  and this is my portfolio .I’m a Front-End Developer located in India and i have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+Hello! I'm Mohit and this is my portfolio .I’m a Full Stack Developer located in India and i have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences as well as creating efficient and scalable applications. 
 
 ### Project Images
 

@@ -33,9 +33,11 @@ const About = () => {
                         <li className='about__skillsItems'>Nodejs</li>
                         <li className='about__skillsItems'>Expressjs</li>
                         <li className='about__skillsItems'>Reactjs</li>
+                        <li className='about__skillsItems'>NextJs</li>
                         <li className='about__skillsItems'>MongoDb</li>
                         <li className='about__skillsItems'>React Redux</li>
                         <li className='about__skillsItems'>Bootsrap</li>
+                        <li className='about__skillsItems'>Tailwind</li>
                         <li className='about__skillsItems'>Data Structures</li>
                         <li className='about__skillsItems'>Algorithms</li>
                         <li className='about__skillsItems'>Chakara UI</li>
@@ -43,7 +45,13 @@ const About = () => {
                         <li className='about__skillsItems'>AWS</li>
                         <li className='about__skillsItems'>Authentication</li>
                         <li className='about__skillsItems'>SQL</li>
-                        <li className='about__skillsItems'>NextJs</li>
+                        <li className='about__skillsItems'>Python</li>
+                        <li className='about__skillsItems'>Django</li>
+                        <li className='about__skillsItems'>JQuery</li>
+                        <li className='about__skillsItems'>PostGres</li>
+                        <li className='about__skillsItems'>TypeScript</li>
+                        <li className='about__skillsItems'>CI/CD</li>
+                        <li className='about__skillsItems'>Java</li>
                         </ul>
                 </div>
                 <span className="sectiontag">&lt;/section&gt;</span>

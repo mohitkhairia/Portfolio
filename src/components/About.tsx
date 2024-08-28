@@ -43,6 +43,7 @@ const About = () => {
                         <li className='about__skillsItems'>AWS</li>
                         <li className='about__skillsItems'>Authentication</li>
                         <li className='about__skillsItems'>SQL</li>
+                        <li className='about__skillsItems'>NextJs</li>
                         </ul>
                 </div>
                 <span className="sectiontag">&lt;/section&gt;</span>

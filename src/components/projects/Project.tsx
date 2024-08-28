@@ -28,7 +28,7 @@ const Project = () => {
             <LazyLoad once height={400}>
                 <section className='project__section'>
                     <div className="project__left">
-                        <img className='project__img' src="https://raw.githubusercontent.com/code735/stanzaLiving/main/readme_homepage.png" alt="color palette" height="100%" style={{objectFit:"cover"}}/>
+                        <img className='project__img' src="https://raw.githubusercontent.com/code735/stanzaLiving/main/readme_homepage.png" alt="" height="100%" style={{objectFit:"cover"}}/>
                     </div>
                     <div className="project__right">
                         <h3 className='project__headingTertiary'>Featured Project</h3>
@@ -79,14 +79,14 @@ const Project = () => {
                         </div>
                     </div>
                     <div className="project__right">
-                        <img className='project__img' src="../favicon/asos.png" alt='project image'/>
+                        <img className='project__img' src="../favicon/asos.png" alt=""/>
                     </div>
                 </section>
             </LazyLoad>
             <LazyLoad once height={400}>
                 <section className='project__section project__section3'>
                     <div className="project__left">
-                        <img className='project__img' src="../favicon/TodoApp.png" alt='project image'/>
+                        <img className='project__img' src="../favicon/TodoApp.png" alt="" />
                     </div>
                     <div className="project__right">
                         <h3 className='project__headingTertiary'>Featured Project</h3>

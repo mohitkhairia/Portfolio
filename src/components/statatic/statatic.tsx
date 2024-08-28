@@ -1,5 +1,5 @@
 import AnimatedLettersFast from 'components/AnimatedlettersFast'
-import Center from 'components/Layout/Center'
+// import Center from 'components/Layout/Center'
 import React, { useState, useEffect } from 'react'
 import "./statayic.scss"
 

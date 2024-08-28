@@ -4,7 +4,7 @@ import "./center.scss";
 import About from "components/About";
 import LazyLoad from 'react-lazyload';
 import Project from "components/projects/Project";
-import OtherProjects from "components/projects/OtherProjects";
+// import OtherProjects from "components/projects/OtherProjects";
 import Touch from "components/Touch";
 import Gitcontro from "components/gitcontribution/gitcontro";
 import Static from "components/statatic/statatic";

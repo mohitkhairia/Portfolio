@@ -79,14 +79,14 @@ const Project = () => {
                         </div>
                     </div>
                     <div className="project__right">
-                        <img className='project__img' src="../favicon/asos.png" />
+                        <img className='project__img' src="../favicon/asos.png" alt='project image'/>
                     </div>
                 </section>
             </LazyLoad>
             <LazyLoad once height={400}>
                 <section className='project__section project__section3'>
                     <div className="project__left">
-                        <img className='project__img' src="../favicon/TodoApp.png" />
+                        <img className='project__img' src="../favicon/TodoApp.png" alt='project image'/>
                     </div>
                     <div className="project__right">
                         <h3 className='project__headingTertiary'>Featured Project</h3>

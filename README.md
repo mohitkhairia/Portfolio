@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p align="center">
-    <b>Yash- portfolio</b>
+    <b>Mohit- portfolio</b>
     <br />
     <!-- <a href="https://arcane-retreat-14101.herokuapp.com/">View Demo</a> -->
     <!-- · -->

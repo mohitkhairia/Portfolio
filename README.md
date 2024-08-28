@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p align="center">
-    <b>Yash- portfolio</b>
+    <b>Mohit- portfolio</b>
     <br />
     <!-- <a href="https://arcane-retreat-14101.herokuapp.com/">View Demo</a> -->
     <!-- · -->
@@ -14,7 +14,7 @@ ABOUT THE PROJECT
 
 ## About The Project
 
-Hello! I'm Yash  and this is my portfolio .I’m a Front-End Developer located in India and i have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+Hello! I'm Mohit and this is my portfolio .I’m a Full Stack Developer located in India and i have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences as well as creating efficient and scalable applications. 
 
 ### Project Images
 
